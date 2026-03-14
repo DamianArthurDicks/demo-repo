@@ -2,4 +2,7 @@ x = "Truck"
 y = 5 
 z = "white"
 
-print(x, y, z)
+print("hello truck driver")
+print(x)
+print(y)
+print(z)
